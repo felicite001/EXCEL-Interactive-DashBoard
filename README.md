@@ -7,7 +7,7 @@ Cybercrime Hotspots and Cold spots: A Geospatial Analysis by financial losses du
 
 DESCRIPTION
 
-In the Jpurny of Analytics Avanew an MEGA INTERNSHIP IN DATA ANALYTICS, Each of are provided with an Internship Task of creating Interactive Excel Dash Board and Cource complete on Excel Skills.
+In the Journy of Analytics Avenue MEGA INTERNSHIP IN DATA ANALYTICS, Each of are provided with an Internship Task of creating Interactive Excel Dash Board and Cource complete on Excel Skills.
 Yeah, it was wonderful and very Interstingt to do tasks and activites on behalf of Internship Task....
 
 This is my very first interactive Excel DashBoard, DataSheet link is Avaliable in below
